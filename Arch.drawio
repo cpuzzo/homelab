@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="iHE4AkDnhQ36xZohh5aO">
+    <mxGraphModel dx="815" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sLebUft6KjlYTFw9dSav-3" edge="1" parent="1" source="sLebUft6KjlYTFw9dSav-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="sLebUft6KjlYTFw9dSav-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sLebUft6KjlYTFw9dSav-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="garage prox sensor" vertex="1">
+          <mxGeometry height="40" width="40" x="230" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="sLebUft6KjlYTFw9dSav-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Broker" vertex="1">
+          <mxGeometry height="60" width="60" x="300" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="sLebUft6KjlYTFw9dSav-6" edge="1" parent="1" source="sLebUft6KjlYTFw9dSav-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="sLebUft6KjlYTFw9dSav-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sLebUft6KjlYTFw9dSav-4" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="ttmt" vertex="1">
+          <mxGeometry height="40" width="40" x="310" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="sLebUft6KjlYTFw9dSav-9" edge="1" parent="1" source="sLebUft6KjlYTFw9dSav-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="sLebUft6KjlYTFw9dSav-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sLebUft6KjlYTFw9dSav-7" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="leak sensor" vertex="1">
+          <mxGeometry height="40" width="40" x="400" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="sLebUft6KjlYTFw9dSav-10" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="CMMS" vertex="1">
+          <mxGeometry height="60" width="60" x="100" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="sLebUft6KjlYTFw9dSav-16" edge="1" parent="1" source="sLebUft6KjlYTFw9dSav-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="sLebUft6KjlYTFw9dSav-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sLebUft6KjlYTFw9dSav-11" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Asset" vertex="1">
+          <mxGeometry height="60" width="60" x="20" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="sLebUft6KjlYTFw9dSav-17" edge="1" parent="1" source="sLebUft6KjlYTFw9dSav-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="sLebUft6KjlYTFw9dSav-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sLebUft6KjlYTFw9dSav-13" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Being" vertex="1">
+          <mxGeometry height="60" width="60" x="120" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="sLebUft6KjlYTFw9dSav-15" edge="1" parent="1" source="sLebUft6KjlYTFw9dSav-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="sLebUft6KjlYTFw9dSav-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sLebUft6KjlYTFw9dSav-14" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Birthday" vertex="1">
+          <mxGeometry height="50" width="50" x="100" y="380" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
