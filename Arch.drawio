@@ -46,6 +46,27 @@
         <mxCell id="sLebUft6KjlYTFw9dSav-14" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Birthday" vertex="1">
           <mxGeometry height="50" width="50" x="100" y="380" as="geometry" />
         </mxCell>
+        <mxCell id="QrEL3_L4_8G9Wc0P7q5k-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="SMTP" vertex="1">
+          <mxGeometry height="60" width="60" x="260" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QrEL3_L4_8G9Wc0P7q5k-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="homepage" vertex="1">
+          <mxGeometry height="60" width="60" x="50" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QrEL3_L4_8G9Wc0P7q5k-3" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="timeseries DB" vertex="1">
+          <mxGeometry height="60" width="60" x="120" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QrEL3_L4_8G9Wc0P7q5k-4" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="telemetry DB" vertex="1">
+          <mxGeometry height="60" width="60" x="190" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QrEL3_L4_8G9Wc0P7q5k-5" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="gitforge" vertex="1">
+          <mxGeometry height="60" width="60" x="510" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QrEL3_L4_8G9Wc0P7q5k-6" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="firewall" vertex="1">
+          <mxGeometry height="60" width="60" x="330" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QrEL3_L4_8G9Wc0P7q5k-7" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="IaC" vertex="1">
+          <mxGeometry height="60" width="60" x="400" y="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
